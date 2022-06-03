@@ -1,0 +1,1701 @@
+{  
+  "footer1":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+       
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer2":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes footer n°02"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer3":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer4":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer5":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer6":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer7":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer8":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer9":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer10":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer11":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer12":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer13":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer14":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer15":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer16":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer17":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer18":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer19":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer20":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer21":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer22":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer23":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,
+  "footer24":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+
+  ,    "footer25":
+  {
+    "value":false,
+    "title":"footer_element",
+    "id":"footer_id1" ,
+    "className":"democlass_deux_class",
+    "innerhtml":"text default",
+    "setattribute_simple":"",       
+     "text":"Conception, développement",
+     "setattribute":[
+      ["id", "footer_idtabbbbs"],
+      ["class", ""],
+      ["onmousedown", ""],
+      ["onmouseenter", ""],
+      ["onmouseleave", ""],
+      ["onmousemove", ""],
+      ["onmouseover", ""],
+      ["onoffline", ""],
+      ["ononline", ""],
+      ["onpaste", ""]
+      ] , 
+      "elementchildNodes":[
+
+        [
+          false,"title","monid","democlass_deux_class2","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        ,         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],         
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ],
+        
+        [
+          false,"title","id","className","p",
+          "Text element elementchildNodes"
+        ]
+        
+        
+        ] 
+     
+  }
+}
+ 
